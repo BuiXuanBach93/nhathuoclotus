@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*keyword=
+Disallow: /thanh-toan
+Disallow: /*tags=
+Disallow: /admin/*
+
+Sitemap: https://nhathuoclotus.com/sitemap.xml
