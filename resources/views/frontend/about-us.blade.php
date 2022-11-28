@@ -89,7 +89,7 @@ use App\Constant;
       margin-top: 25px;
       color: #191919; }
       .tt-about-box .tt-blockquote-02 .tt-icon {
-        color: #288ad6; }
+        color: #5dac46; }
       .tt-about-box .tt-blockquote-02 .tt-title {
         margin-top: 0px;
         padding-bottom: 0;

@@ -110,7 +110,7 @@
 
             <!-- Logo -->
             <a href="/admin/dashboard" class="logo">
-                <b style="font-weight: 300;">Thanh Bình Pharamcy</b>
+                <b style="font-weight: 300;">Nhà Thuốc Lotus</b>
             </a>
 
             <!-- Header Navbar -->

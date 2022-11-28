@@ -45,7 +45,7 @@ letter-spacing: 0.03em; }
 .tt-post-single .tt-tag a {
 display: inline-block;
 padding: 2px 5px;
-color: #288ad6;
+color: #5dac46;
 transition: all 0.2s linear;
 -ms-transition: all 0.2s linear;
 -webkit-transition: all 0.2s linear;
@@ -122,7 +122,7 @@ font-size: 12px;
 color: #999999;
 text-align: left; }
 .tt-post-single .post-meta a {
-color: #288ad6;
+color: #5dac46;
 letter-spacing: 0.02em;
 transition: all 0.2s linear;
 -ms-transition: all 0.2s linear;

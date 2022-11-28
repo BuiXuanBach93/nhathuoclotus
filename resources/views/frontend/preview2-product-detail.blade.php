@@ -169,7 +169,7 @@ transition: all 0.2s linear;
 -webkit-transition: all 0.2s linear;
 -o-transition: all 0.2s linear; }
 .tt-product-single-info .tt-add-info ul li a:hover {
-color: #288ad6; }
+color: #5dac46; }
 .tt-product-single-info .tt-add-info ul li:not(:first-child) {
 margin-top: 6px; }
 .tt-product-single-info .tt-add-info span:fist-child {
@@ -187,7 +187,7 @@ font-size: 30px;
 line-height: 40px;
 font-family: Arial, Helvetica, sans-serif;
 font-weight: 500;
-color: #288ad6; }
+color: #5dac46; }
 .tt-product-single-info .tt-price span {
 display: inline-block; }
 .tt-product-single-info .tt-price .sale-price {
@@ -195,7 +195,7 @@ color: #FF0000;
 margin-right: 7px; }
 .tt-product-single-info .tt-price .old-price,
 .tt-product-single-info .tt-price .old-price .money {
-color: #288ad6;
+color: #5dac46;
 text-decoration: line-through; }
 .tt-product-single-info .tt-review {
 margin-top: 5px; }
@@ -209,7 +209,7 @@ color: #ffb503; }
 .tt-product-single-info .tt-review .tt-rating .icon-star-empty:before {
 color: #d4d4d4; }
 .tt-product-single-info .tt-review a {
-color: #288ad6;
+color: #5dac46;
 display: inline-block;
 transition: all 0.2s linear;
 -ms-transition: all 0.2s linear;

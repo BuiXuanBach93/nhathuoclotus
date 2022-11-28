@@ -29,11 +29,11 @@
     line-height: 40px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
-    color: #288ad6;
+    color: #5dac46;
 }
 
 .title-total-amount {
-    color: #288ad6;
+    color: #5dac46;
 }
 .message-thanks {
     padding: 5px 10px;

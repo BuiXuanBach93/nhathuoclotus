@@ -501,7 +501,7 @@ transition: all 0.2s linear;
 -webkit-transition: all 0.2s linear;
 -o-transition: all 0.2s linear; }
 .tt-product-single-info .tt-add-info ul li a:hover {
-color: #288ad6; }
+color: #5dac46; }
 .tt-product-single-info .tt-add-info ul li:not(:first-child) {
 margin-top: 6px; }
 .tt-product-single-info .tt-add-info span:fist-child {
@@ -519,7 +519,7 @@ font-size: 30px;
 line-height: 40px;
 font-family: Arial, Helvetica, sans-serif;
 font-weight: 500;
-color: #288ad6; }
+color: #5dac46; }
 .tt-product-single-info .tt-price span {
 display: inline-block; }
 .tt-product-single-info .tt-price .sale-price {

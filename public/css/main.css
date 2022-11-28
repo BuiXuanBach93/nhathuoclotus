@@ -61,7 +61,7 @@ footer .tt-color-scheme-01 address span {
     margin-top:10px;
 }
 .tt-product a:hover .tt-title{
-    color: #288ad6;
+    color: #5dac46;
     transition: all ease 200ms;
 }
 
@@ -72,7 +72,7 @@ footer .tt-color-scheme-01 address span {
 }
 
 .tt-breadcrumb ul li a {
-    color: #288ad6;
+    color: #5dac46;
 }
 
 .product-list-page .tt-product:not(.tt-view) .tt-description {
@@ -253,7 +253,7 @@ footer .tt-color-scheme-01 address span {
 }
 
 .tt-review-comments .first-comment span{
-    color: #288ad6;
+    color: #5dac46;
 }
 
 .tt-review-comments .first-comment {

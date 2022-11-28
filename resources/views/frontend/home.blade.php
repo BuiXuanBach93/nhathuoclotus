@@ -428,7 +428,7 @@ use App\Constant;
                             <div class="CategoryList_category-item__1MvGF">
                                 <a href="/cham-soc-suc-khoe">
                                     <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/cham-soc-suc-khoe.png" alt="cham soc suc khoe" />
-                                    <p style="color: #666666">Tăng đề kháng</p>
+                                    <p style="color: #666666">Đề kháng</p>
                                 </a>
                             </div>
                         </li>
@@ -476,9 +476,9 @@ use App\Constant;
                             "
                         >
                             <div class="CategoryList_category-item__1MvGF">
-                                <a href="/chuyen-khoa">
-                                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/chuyen-khoa.png" alt="chuyen khoa" />
-                                    <p style="color: #666666">Chuyên khoa</p>
+                                <a href="/thuo-bo-nao">
+                                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/bo-nao.png" alt="Bổ não" />
+                                    <p style="color: #666666">Bổ não</p>
                                 </a>
                             </div>
                         </li>
@@ -501,9 +501,9 @@ use App\Constant;
                             "
                         >
                             <div class="CategoryList_category-item__1MvGF">
-                                <a href="/nhi-khoa">
-                                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/suc-khoe-cua-be.png" alt="suc khoe cua be" />
-                                    <p style="color: #666666">Nhi khoa</p>
+                                <a href="/gan-than-tieu-hoa">
+                                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/ho-tro-tieu-hoa.png" alt="Tiêu hóa" />
+                                    <p style="color: #666666">Tiêu hóa</p>
                                 </a>
                             </div>
                         </li>
@@ -634,7 +634,7 @@ use App\Constant;
             <div class="CategoryList_category-item__1MvGF">
                  <a href="/sinh-ly-nam">
                     <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/sinh-ly-nam.png" alt="sinh ly nam" />
-                    <p style="color: #666666">Sinh lý nam</p>
+                    <p style="color: #666666">Sinh lý</p>
                 </a>
             </div>
             <div class="CategoryList_category-item__1MvGF">
@@ -646,7 +646,7 @@ use App\Constant;
             <div class="CategoryList_category-item__1MvGF">
                 <a href="/cham-soc-suc-khoe">
                     <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/cham-soc-suc-khoe.png" alt="cham soc suc khoe" />
-                    <p style="color: #666666">Tăng đề kháng</p>
+                    <p style="color: #666666">Đề kháng</p>
                 </a>
             </div>
             <div class="CategoryList_category-item__1MvGF">
@@ -656,15 +656,15 @@ use App\Constant;
                 </a>
             </div>
             <div class="CategoryList_category-item__1MvGF">
-                <a href="/chuyen-khoa">
-                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/chuyen-khoa.png" alt="chuyen khoa" />
-                    <p style="color: #666666">Chuyên khoa</p>
+                <a href="/thuo-bo-nao">
+                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/bo-nao.png" alt="Bổ não" />
+                    <p style="color: #666666">Bổ não</p>
                 </a>
             </div>
             <div class="CategoryList_category-item__1MvGF">
-                <a href="/nhi-khoa">
-                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/suc-khoe-cua-be.png" alt="suc khoe cua be" />
-                    <p style="color: #666666">Nhi khoa</p>
+                <a href="/gan-than-tieu-hoa">
+                    <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/ho-tro-tieu-hoa.png" alt="Tiêu hóa" />
+                    <p style="color: #666666">Tiêu hóa</p>
                 </a>
             </div>
             <div class="CategoryList_category-item__1MvGF">
