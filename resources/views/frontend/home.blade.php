@@ -476,7 +476,7 @@ use App\Constant;
                             "
                         >
                             <div class="CategoryList_category-item__1MvGF">
-                                <a href="/thuo-bo-nao">
+                                <a href="/thuoc-bo-nao">
                                     <img {{ asset('/images/loader.svg') }} data-src="/images/icon_home/bo-nao.png" alt="Bổ não" />
                                     <p style="color: #666666">Bổ não</p>
                                 </a>
