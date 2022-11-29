@@ -1325,7 +1325,7 @@ $authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
                                         <div id="wrap-image-1478094039604" class="ins-general-image ins-selectable-element ins-element-wrap ins-element-image">
                                             <div id="image-1478094039604" class="ins-element-content" data-variable-name="Image">
                                                 <a id="link-image-1478094039604" class="ins-element-link">
-                                                    <img style="width: 230px;" src="/images/contact-logo-nttb.png" />
+                                                    <img style="width: 230px;" src="/images/contact-logo-ntlt.png" />
                                                 </a>
                                             </div>
                                         </div>
