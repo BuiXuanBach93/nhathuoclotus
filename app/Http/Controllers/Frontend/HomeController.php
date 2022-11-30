@@ -74,9 +74,9 @@ class HomeController extends Controller
             'newses'            => $newses,
             'isMobile'          => $isMobile,    
             'categoryProducts'  => $this->categoryModel->getCategoryProduct($ignoreProductIDs),
-            'pageTitle'         => 'Nhà Thuốc Lotus - An tâm mua thuốc chính hãng',
+            'pageTitle'         => 'Nhà thuốc Lotus | Hiệu thuốc - Nhà thuốc online uy tín tại Hà Nội',
             'pageKeyword'       => 'nhà thuốc, nhà thuốc GPP, thuốc, nhà thuốc việt, nhà thuốc online, nhà thuốc online uy tín',
-            'pageDesc'          => 'Hệ thống Nhà Thuốc Lotus phân phối trực tuyến dược phẩm, thực phẩm chức năng, thuốc giảm cân chính hãng, giá tốt, nhiều ưu đãi.',
+            'pageDesc'          => 'Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu',
         ]);
     }
 
@@ -340,9 +340,9 @@ class HomeController extends Controller
             'newestProducts'    => $newestProducts->paginate(Constant::PAGE_NUMBER),
             'providers'         => $providers,
             'fromProviders'     => $fromProviders,
-            'pageTitle'     => 'Tìm kiếm sản phẩm trên hệ thống Nhà Thuốc Lotus',
+            'pageTitle'     => 'Nhà thuốc Lotus - Danh sách sản phẩm theo từ khóa',
             'pageKeyword'   => 'Tìm kiếm sản phẩm',
-            'pageDesc'      => 'Hàng nghìn mặt hàng dược phẩm đang có mặt trên hệ thống website Nhà Thuốc Lotus',
+            'pageDesc'      => 'Thật nhiều sản phẩm tốt, nhiều voucher đang chờ đợi quý khách',
         ]);
     }
 
@@ -365,9 +365,9 @@ class HomeController extends Controller
         }
 
         return view('contact', [
-            'pageTitle'     => 'Liên hệ Nhà Thuốc Lotus',
+            'pageTitle'     => 'Liện hệ với Nhà Thuốc Lotus nhanh chóng',
             'pageKeyword'   => 'Liên hệ Nhà Thuốc Lotus',
-            'pageDesc'      => 'Chúng tôi luôn ở đây để lắng nghe những phản hồi của quý khách về chất lượng sản phẩm, chất lượng dịch vụ',
+            'pageDesc'      => 'Thật đơn giản để liên hệ với chúng tôi, chỉ cần để lại thông tin, chúng tôi sẽ hỗ trợ ngay tức thì.',
         ]);
     }
 
@@ -602,9 +602,9 @@ class HomeController extends Controller
             'newestProducts'    => $newestProducts->paginate(Constant::PAGE_NUMBER),
             'providers'         => $providers,
             'fromProviders'     => $fromProviders,
-            'pageTitle'     => 'Tìm kiếm sản phẩm trên hệ thống Nhà Thuốc Lotus',
+            'pageTitle'     => 'Hàng nghìn sản phẩm chính hãng với ưu đãi lớn',
             'pageKeyword'   => 'Tìm kiếm sản phẩm',
-            'pageDesc'      => 'Hàng nghìn mặt hàng dược phẩm đang có mặt trên hệ thống website Nhà Thuốc Lotus',
+            'pageDesc'      => 'Tìm kiếm sản phẩm trên hệ thống website Nhà Thuốc Lotus thật dễ dàng',
         ]);
     }
 
@@ -612,18 +612,18 @@ class HomeController extends Controller
     public function aboutUs()
     {
         return view('frontend/about-us', [
-            'pageTitle'     => 'Nhà Thuốc Lotus - Nhà thuốc online đạt chuẩn GPP',
+            'pageTitle'     => 'Nhà Thuốc Lotus Hà Nội - Kênh phân phối online dược phẩm chính hãng',
             'pageKeyword'   => 'Thông tin về Nhà Thuốc Lotus',
-            'pageDesc'      => 'Nhà Thuốc Lotus tự hào là đơn vị phân phối dược phẩm trực tuyến đạt chuẩn số một về chất lượng và giá'
+            'pageDesc'      => 'Với tiêu chí sản phẩm tốt nhất, bán với giá tốt nhất, Nhà Thuốc Lotus cam kết phục vụ quý khách tận tâm.'
         ]);
     }
 
     public function faq()
     {
         return view('frontend/faq', [
-            'pageTitle'     => 'Giải đáp thắc mắc của khách hàng',
+            'pageTitle'     => 'Khách hàng hỏi - Nhà Thuốc Lotus đáp',
             'pageKeyword'   => 'Câu hỏi thường gặp',
-            'pageDesc'      => 'Những câu hỏi thường gặp khi mua hàng ở Nhà Thuốc Lotus, nếu bạn không tìm thấy câu trả lời thỏa mãn, vui lòng liên hệ với chúng tôi để được tư vấn chi tiết',
+            'pageDesc'      => 'Giải đáp tất cả các thắc mắc của khách hàng về sản phẩm, dịch vụ của Nhà Thuốc.',
         ]);
     }
 
