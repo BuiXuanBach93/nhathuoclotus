@@ -128,36 +128,36 @@ use App\Constant;
 			<div class="container">
 				<div class="row">
 					<div class="col-md-7">
-						<h1 class="tt-title">ĐÔI NÉT VỀ Nhà Thuốc Lotus</h1>
+						<h1 class="tt-title">ĐÔI NÉT VỀ NHÀ THUỐC LOTUS</h1>
 
-						<p><span><span><span>Nh&agrave; thuốc Thanh B&igrave;nh l&agrave; nh&agrave; thuốc trực tuyến uy t&iacute;n h&agrave;ng đầu, nh&agrave; thuốc được th&agrave;nh lập nhằm phục vụ c&aacute;c nhu cầu về y tế với phương ch&acirc;m chăm s&oacute;c sức khỏe cho cộng đồng tốt nhất k&egrave;m mức gi&aacute; th&agrave;nh hợp l&iacute; nhất. Hiện tại chuỗi nh&agrave; thuốc Thanh B&igrave;nh đ&atilde; v&agrave; đang l&agrave; hệ thống nh&agrave; thuốc online uy t&iacute;n chuy&ecirc;n cung cấp sỉ v&agrave; lẻ c&aacute;c mặt h&agrave;ng dược phẩm ch&iacute;nh h&atilde;ng tại H&agrave; Nội, Th&agrave;nh phố Hồ Ch&iacute; Minh, cũng như c&aacute;c v&ugrave;ng miền kh&aacute;c tr&ecirc;n to&agrave;n quốc với mức gi&aacute; th&agrave;nh cạnh tranh cao.</span></span></span></p>
+						<p><strong>Nh&agrave; thuốc Lotus</strong> l&agrave; nh&agrave; thuốc chuy&ecirc;n b&aacute;n lẻ c&aacute;c loại thuốc th&agrave;nh phẩm, thuốc k&ecirc; đơn, thực phẩm chức năng, mỹ phẩm, thực phẩm thi&ecirc;n nhi&ecirc;n, c&aacute;c loại thiết bị y tế...c&aacute;c sản phẩm tại Nh&agrave; Thuốc Lotus được nhập khẩu v&agrave; ph&acirc;n phối ch&iacute;nh h&atilde;ng, uy t&iacute;n từ nhiều đơn vị trong v&agrave; ngo&agrave;i nước. B&ecirc;n cạnh đ&oacute; l&agrave; những dịch vụ chăm s&oacute;c sức khỏe, l&agrave; nơi cung cấp những kiến thức y khoa bổ &iacute;ch cho kh&aacute;ch h&agrave;ng. Hiện tại nh&agrave; thuốc đang hoạt động ở cả 2 phương thức đ&oacute; l&agrave; b&aacute;n h&agrave;ng trực tiếp tại Nh&agrave; Thuốc Lotus c&oacute; địa chỉ tại: Số 59 ng&otilde; 42, phường S&agrave;i Đồng, quận Long Bi&ecirc;n, th&agrave;nh phố H&agrave; Nội&nbsp;v&agrave; b&aacute;n h&agrave;ng trực tuyến th&ocirc;ng qua k&ecirc;nh website nhathuoclotus.com với những sản phẩm chất lượng v&agrave; gi&aacute; th&agrave;nh cạnh tranh.</p></br></br>
 
-<p></p>
 <h2>TẦM NHÌN & SỨ MỆNH</h2>
 
-<p><strong>Nh&agrave; thuốc Thanh B&igrave;nh</strong> đang v&agrave; sẽ hướng đến mục ti&ecirc;u x&acirc;y dựng chuỗi hệ thống nh&agrave; thuốc trực tuyến hiện đại bậc nhất với quy m&ocirc; lớn v&agrave; phục vụ tất cả c&aacute;c nhu cầu của mọi kh&aacute;ch h&agrave;ng tr&ecirc;n mọi miền tổ quốc.</p>
-
-<p>Nh&agrave; thuốc cung cấp h&agrave;ng ng&agrave;n sản phẩm ch&iacute;nh h&atilde;ng với mức gi&aacute; th&agrave;nh ưu đ&atilde;i, đảm bảo những lợi &iacute;ch tuyệt đối tới kh&aacute;ch h&agrave;ng khi mua sắm trực tuyến tại nh&agrave; thuốc, c&aacute;c mặt h&agrave;ng dược phẩm đa dạng v&agrave; thiết yếu tại nh&agrave; thuốc gồm:</p>
+<p>Nh&agrave; Thuốc Lotus với phương ch&acirc;m &quot;<em><strong>Thuốc tốt nhất, gi&aacute; tốt nhất</strong></em>&quot;&nbsp;lu&ocirc;n nằm trong danh s&aacute;ch <strong>top nh&agrave; thuốc online</strong>&nbsp;hướng đến mục ti&ecirc;u ph&aacute;t triển v&agrave; trở th&agrave;nh nh&agrave; thuốc kiểu mẫu phục vụ nhu cầu y tế v&agrave; chăm s&oacute;c sức khỏe người d&acirc;n tr&ecirc;n mọi miền tổ quốc, nh&agrave; thuốc cung cấp đa dạng tất cả c&aacute;c mặt h&agrave;ng thiết yếu, được ph&acirc;n phối ch&iacute;nh h&atilde;ng với mức gi&aacute; th&agrave;nh tốt nhất đến tay người sử dụng bao gồm:</p>
 
 <ul>
-  <li style="list-style-type:disc"><em>C&aacute;c loại thuốc k&ecirc; đơn v&agrave; kh&ocirc;ng k&ecirc; đơn</em></li>
-  <li style="list-style-type:disc"><em>C&aacute;c loại thực phẩm chức năng đa dạng</em></li>
-  <li style="list-style-type:disc"><em>C&aacute;c loại dụng cụ, thiết bị y tế</em></li>
-  <li style="list-style-type:disc"><em>Mỹ&nbsp;phẩm, h&oacute;a mỹ phẩm</em></li>
+  <li>C&aacute;c loại thuốc k&ecirc; đơn, thuốc kh&ocirc;ng k&ecirc; đơn theo danh mục hiện h&agrave;nh.</li>
+  <li>Thực phẩm chức năng đa dạng.</li>
+  <li>C&aacute;c loại thiết bị y tế.</li>
+  <li>C&aacute;c loại sản phẩm thi&ecirc;n nhi&ecirc;n, mỹ phẩm, h&oacute;a mỹ phẩm.</li>
 </ul>
 
-<p>Hệ thống nh&agrave; thuốc Thanh B&igrave;nh hợp t&aacute;c ph&acirc;n phối trực tuyến với đối t&aacute;c c&aacute;c l&agrave; c&ocirc;ng ty dược phẩm h&agrave;ng đầu trong nước như Học Viện Qu&acirc;n Y, Dược phẩm Trung Ương 3, Dược phẩm H&agrave; T&acirc;y, dược phẩm Hậu Giang, dược phẩm Traphaco. B&ecirc;n cạnh đ&oacute; ch&uacute;ng t&ocirc;i kh&ocirc;ng ngừng t&igrave;m kiếm cơ hội hợp t&aacute;c với c&aacute;c tập đo&agrave;n, c&aacute;c c&ocirc;ng ty dược phẩm lớn ở c&aacute;c nước kh&aacute;c như : Mỹ, &Yacute;, Ba Lan, Ph&aacute;p&hellip; Sản phẩm được nhập khẩu nguy&ecirc;n hộp với đầy đủ giấy tờ theo ti&ecirc;u chuẩn của bộ y tế.</p>
 
-<p>Với phương ch&acirc;m <em><strong>&ldquo;lấy chữ t&iacute;n để tạo n&ecirc;n chữ tin trong l&ograve;ng kh&aacute;ch h&agrave;ng&rdquo;</strong></em>, sản phẩm tại nh&agrave; thuốc đều l&agrave; sản phẩm ch&iacute;nh h&atilde;ng, được Bộ Y Tế cấp ph&eacute;p lưu h&agrave;nh v&agrave; hiệu quả thưc tế mang lại được đ&aacute;nh gi&aacute; cao từ người từ người ti&ecirc;u d&ugrave;ng. Đến với nh&agrave; thuốc Thanh B&igrave;nh kh&aacute;ch h&agrave;ng ho&agrave;n to&agrave;n c&oacute; thể an t&acirc;m về chất lượng của tất cả c&aacute;c loại mặt h&agrave;ng.</p>
 
-						<p>&nbsp;</p>
+			<p>&nbsp;</p>
 						
 
 						<blockquote class="tt-blockquote-02">
 							<i class="tt-icon icon-g-56"></i>
-							<div class="tt-title">Lấy chữ tín để tạo nên chữ tin trong lòng khách hàng</div>
+							<div class="tt-title">Thuốc tốt nhất - Giá tốt nhất</div>
 							<div class="tt-title-description">nhathuoclotus.com</div>
 						</blockquote>
+
+            <p>Nh&agrave; thuốc tự h&agrave;o l&agrave; một trong những đơn vị c&oacute; cơ hội hợp t&aacute;c v&agrave; ph&acirc;n phối những sản phẩm c&oacute; tiếng tại những đơn vị lớn trong v&agrave; ngo&agrave;i nước như: Mỹ, Ph&aacute;p, &Uacute;c, Ba Lan...Những đơn vị lớn trong nước như: Học Viện Qu&acirc;n Y, c&ocirc;ng ty Dược Hậu Giang, Traphaco, dược phẩm Trung Ương 3...Tất cả c&aacute;c sản phẩm đều được nh&agrave; thuốc ph&acirc;n phối trực tiếp từ c&ocirc;ng ty k&egrave;m theo những h&oacute;a đơn chứng từ đ&uacute;ng quy định.</p>
+
+<p>Kh&aacute;ch h&agrave;ng khi trải nghiệm v&agrave; mua sắm c&ugrave;ng ch&uacute;ng t&ocirc;i c&oacute; thể ho&agrave;n to&agrave;n y&ecirc;n t&acirc;m về chất lượng cũng như gi&aacute; cả của sản phẩm, với đội ngũ dược sĩ chuy&ecirc;n m&ocirc;n cao lu&ocirc;n trực chiến 24/7 sẽ đồng h&agrave;nh&nbsp;c&ugrave;ng sức khỏe của qu&yacute; kh&aacute;ch h&agrave;ng v&agrave; giải đ&aacute;p tận t&igrave;nh tất cả những thắc mắc về bệnh cũng như c&aacute;ch sử dụng thuốc đ&uacute;ng c&aacute;ch từ qu&yacute; kh&aacute;ch.</p>
+</br>
 					</div>
 				</div>
 			</div>
@@ -166,7 +166,7 @@ use App\Constant;
 <div class="container-indent">
 <div class="container">    
 <div class="tt-about-col-list"><div class="row col-md-12">
-  <img alt="Nhà Thuốc Lotus" style="width: 100%" src="{{ asset('/images/nttb_1.jpg') }}">
+  <img alt="Nhà Thuốc Lotus" style="width: 100%" src="{{ asset('/images/ntlt_1.jpg') }}">
 </div></div>
 </div>
 </div>
@@ -176,45 +176,60 @@ use App\Constant;
 			<div class="tt-about-col-list">
 				<div class="row">
 					<div class="col-md-6">
-						<h5 class="tt-title" style="color: #5dac46">ĐỘI NGŨ NHÀ THUỐC</h5>
+						<h5 class="tt-title" style="color: #5dac46">GIÁ TRỊ MANG TÍNH CỐT LÕI CHÚNG TÔI MANG ĐẾN</h5>
 						<div class="width-90">
-                            Tại Nhà Thuốc Lotus đội ngũ nhân viên đóng vai trò quyết định trong thành công và sự phát triển của nhà thuốc, họ là những bác sĩ, dược sĩ có chuyên môn cao, được đào tạo bài bản cũng như đã có nhiều năm hoạt động trong ngành y tế với những kinh nghiệm vô cùng quý báu, bên cạnh đó là đội ngũ nhân viên, tư vấn có tinh thần, trách nhiệm cao. 
-                            </br>
-                            </br>Tại đây chúng tôi cung cấp không chỉ là những sản phẩm chính hãng, giá thành tốt nhất mà còn là những dịch vụ tiện ích nhất, tư vấn sức khỏe miễn phí tận tâm nhất, đảm bảo mang đến sự hài lòng tuyệt đối cho mỗi khách hàng khi đến với nhà thuốc.
+                            <h3>Chất lượng l&agrave; ưu ti&ecirc;n h&agrave;ng đầu - Tạo dựng uy t&iacute;n từ niềm tin của kh&aacute;ch h&agrave;ng</h3>
 
-                            <p><span><span><span>Hệ thống Nh&agrave; thuốc Thanh B&igrave;nh chuyển sang h&igrave;nh thức trực tuyến từ th&aacute;ng 3/2021 với phụ tr&aacute;ch chuy&ecirc;n m&ocirc;n l&agrave; <a href="https://nhathuoclotus.com/nguyen-thi-binh"> <strong> dược sĩ Nguyễn Thị B&igrave;nh</strong> </a></span></span></span></p>
-                            <p></p>
+<p>Nh&agrave; Thuốc Lotus l&agrave; nh&agrave; thuốc&nbsp;đạt chuẩn Thực h&agrave;nh thuốc tốt &ndash; GPP theo quy định của Bộ Y Tế ban h&agrave;nh, nh&agrave; thuốc đ&aacute;p ứng đầy đủ cơ sở vật chất, những tiện &iacute;ch tốt nhất gi&uacute;p kh&aacute;ch h&agrave;ng c&oacute; những trải nghiệm mua h&agrave;ng tốt nhất tại đ&acirc;y. Đội ngũ nh&acirc;n vi&ecirc;n chuy&ecirc;n nghiệp, tận t&igrave;nh c&ugrave;ng đội ngũ dược sĩ với chuy&ecirc;n m&ocirc;n cao, c&oacute; nhiều năm kinh nghiệm, c&ocirc;ng t&aacute;c trong nghề, ch&uacute;ng t&ocirc;i lu&ocirc;n đặt những nhu cầu về sức khỏe của kh&aacute;ch h&agrave;ng l&ecirc;n h&agrave;ng đầu v&agrave; thấu hiểu những mong muốn, nguyện vọng của qu&yacute; kh&aacute;ch h&agrave;ng, tại Nh&agrave; Thuốc Lotus ch&uacute;ng t&ocirc;i lu&ocirc;n cam kết l&agrave; <strong>địa chỉ mua thuốc online ch&iacute;nh h&atilde;ng</strong> với những&nbsp;tư vấn v&agrave; hướng dẫn theo đ&uacute;ng khuyến c&aacute;o sử dụng thuốc đ&oacute; l&agrave;:</p>
+
+<ul>
+  <li>Đ&uacute;ng thuốc.</li>
+  <li>Đ&uacute;ng liều lượng.</li>
+  <li>Sử dụng thuốc đ&uacute;ng c&aacute;ch, đ&uacute;ng thời gian.</li>
+  <li>B&aacute;n thuốc đ&uacute;ng gi&aacute;.</li>
+</ul>
+
+<p>Nh&agrave; Thuốc Lotus cam kết 100% c&aacute;c loại thuốc v&agrave; thực phẩm tại nh&agrave; thuốc ch&uacute;ng t&ocirc;i đều được nhập khẩu cũng như ph&acirc;n phối ch&iacute;nh ngạch, đầu v&agrave;o được kiểm so&aacute;t hết sức chặt chẽ v&agrave; khoa học, chất lượng sản phẩm lu&ocirc;n được đảm bảo tuyệt đối v&agrave; đưa đến tay người sử dụng với mức gi&aacute; th&agrave;nh phải chăng nhất, cạnh tranh nhất tr&ecirc;n thị trường.</p></br>
+
+
+<h3>Kh&aacute;ch h&agrave;ng l&agrave; trung t&acirc;m để đẩy mạnh ph&aacute;t triển nh&agrave; thuốc</h3>
+
+<p>Song song với việc ch&uacute; trọng chất lượng sản phẩm ch&uacute;ng t&ocirc;i lu&ocirc;n&nbsp;kh&ocirc;ng ngừng n&acirc;ng cao chất lượng dịch vụ nhằm mang đến cho kh&aacute;ch h&agrave;ng kh&ocirc;ng gian mua sắm tiện &iacute;ch, an t&acirc;m v&agrave; h&agrave;i l&ograve;ng nhất kể cả khi qu&yacute; kh&aacute;ch h&agrave;ng trải nghiệm dịch vụ mua sắm trực tiếp hay mua h&agrave;ng trực tuyến qua website nhathuoclotus.com.</p>
+
+<ul>
+  <li>Đội ngũ nh&acirc;n vi&ecirc;n, dược sĩ lu&ocirc;n c&oacute; mặt v&agrave; tư vấn tận t&igrave;nh 24/7.</li>
+  <li>Ch&iacute;nh s&aacute;ch đổi trả h&agrave;ng linh động theo quy định&nbsp;trong v&ograve;ng 7 ng&agrave;y kể từ khi mua h&agrave;ng tại Nh&agrave; Thuốc Lotus hoặc kể từ thời điểm nhận h&agrave;ng khi kh&aacute;ch h&agrave;ng đặt h&agrave;ng online.</li>
+  <li>Ch&iacute;nh s&aacute;ch giao h&agrave;ng tận nh&agrave;, giao đ&uacute;ng thời gian m&agrave; kh&aacute;ch h&agrave;ng y&ecirc;u cầu.</li>
+  <li>Ch&iacute;nh s&aacute;ch thanh to&aacute;n linh động bằng h&igrave;nh thức thanh to&aacute;n trực tiếp hoặc chuyển khoản.</li>
+</ul>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="tt-box-info">
-							<img alt="Dược sĩ Nguyễn Thị Bình" style="width: 100%" src="{{ asset('/images/duoc-si-nguyen-thi-binh.jpg') }}">
+							<img alt="Nhà thuốc lotus mặt tiền" style="width: 100%" src="{{ asset('/images/ntlt_2.jpg') }}">
 						</div>
+            <div></br></div>
+              <div class="tt-box-info">
+              <img alt="Nhà thuốc lotus bên trong" style="width: 100%" src="{{ asset('/images/ntlt_4.jpg') }}">
+            </div>
           </div>
           <div class="col-md-6">
-            <h5 class="tt-title" style="color: #5dac46">DỊCH VỤ & HỖ TRỢ</h5>
+            <h5 class="tt-title" style="color: #5dac46">ĐỘI NGŨ DƯỢC SĨ, NHÂN VIÊN TẠI NHÀ THUỐC LOTUS</h5>
 
-                    <p>
-                      Đối với Nhà Thuốc Lotus dịch vụ chăm sóc khách hàng luôn là yếu tố quan trọng để mang đến sự hài lòng cho mỗi người dân khi đến với chúng tôi.
-Nhà thuốc xây dựng website <strong>nhathuoclotus.com</strong> đảm bảo đầy đủ các nhu cầu thiết yếu về dược phẩm cũng như vô số các sản phẩm nội ngoại nhập để khách hàng có thể dễ dàng tham khảo.
-</br>
-</br>
-Đội ngũ dược sĩ tư vấn chuyên môn cao tại nhà thuốc luôn có mặt 24/7 để tư vấn, hỗ trợ và giải đáp mọi thắc mắc của khách hàng.
-Khi đến với Nhà Thuốc Lotus, lợi ích của khách hàng luôn được đặt lên hàng đầu với những chính sách hậu mãi sâu cũng như cam kết mức giá thành thấp nhất trên thị trường đến tay khách hàng.
-Chính sách mua hàng nhanh chóng, tiện lợi, giao hàng miễn phí tận nơi nhanh nhất và chính sách đổi trả hàng linh hoạt trong vòng 30 ngày.
+                    <p>Tại Nh&agrave; Thuốc Lotus kh&aacute;ch h&agrave;ng kh&ocirc;ng chỉ được trải nghiệm mua sắm với những sản phẩm <strong>thuốc&nbsp;ch&iacute;nh h&atilde;ng</strong>, gi&aacute; th&agrave;nh phải chăng m&agrave; tại đ&acirc;y qu&yacute; kh&aacute;ch c&ograve;n nhận được sự hỗ trợ, tư vấn ho&agrave;n to&agrave;n miễn ph&iacute; từ đội ngũ nh&acirc;n vi&ecirc;n, dược sĩ của nh&agrave; thuốc mọi l&uacute;c, mọi nơi bằng h&igrave;nh thức mua h&agrave;ng trực tiếp sẽ được tư&nbsp;vấn 1-1 c&ugrave;ng dược sĩ hoặc tư vấn trực tuyến c&ugrave;ng dược sĩ th&ocirc;ng qua hotline: <strong>0357273443</strong>. <strong>Hiệu thuốc online</strong>&nbsp;lu&ocirc;n đảm bảo mang đến những trải nghiệm l&agrave;m h&agrave;i l&ograve;ng mọi vị kh&aacute;ch khi đến với ch&uacute;ng t&ocirc;i.</p>
 
-                    </p>
+<p>Đội ngũ nh&acirc;n vi&ecirc;n v&agrave; dược sĩ tại <strong>Nh&agrave; thuốc trực tuyến</strong> của&nbsp;Nh&agrave; Thuốc Lotus ch&iacute;nh l&agrave; mắt x&iacute;ch quan trọng bậc nhất gi&uacute;p kết nối kh&aacute;ch h&agrave;ng v&agrave; nh&agrave; thuốc, gi&uacute;p nh&agrave; thuốc ng&agrave;y c&agrave;ng c&oacute; hướng ph&aacute;t triển bền vừng hơn, đ&aacute;p ứng nhu cầu ng&agrave;y c&agrave;ng cao của x&atilde; hội. Họ l&agrave; những người c&oacute; tinh thần tr&aacute;ch nhiệm cao, nhiệt t&igrave;nh trong c&ocirc;ng việc, những b&aacute;c sĩ, dược sĩ chuy&ecirc;n m&ocirc;n cao, đ&atilde; c&oacute; nhiều năm kinh nghiệm trong lĩnh vực y học, họ l&agrave; những người lu&ocirc;n lắng nghe,&nbsp;thấu hiểu v&agrave; chia sẻ những mong muốn, t&acirc;m tư của qu&yacute; kh&aacute;ch h&agrave;ng khi đến với nh&agrave; thuốc ch&uacute;ng t&ocirc;i.</p>
+
+<p>Mỗi nh&acirc;n vi&ecirc;n khi l&agrave;m việc tại nh&agrave; thuốc lu&ocirc;n tận t&acirc;m mong muốn mang đến sự h&agrave;i l&ograve;ng tuyệt đối cho qu&yacute; kh&aacute;ch!</p>
           </div>
     <div class="col-md-6">
-              <img alt="Nhà Thuốc Lotus" style="width: 100%" src="{{ asset('/images/nttb_2.jpg') }}">
+              <img alt="Dược sĩ nhà thuốc lotus" style="width: 100%" src="{{ asset('/images/ntlt_3.jpg') }}">
             </div>
           <div class="col-md-12">
-						<h5 class="tt-title" style="color: #5dac46">SỨ MỆNH CỦA CHÚNG TÔI</h5>
-						<p>
-              Sứ mệnh của chúng tôi là chăm sóc sức khỏe khách hàng mọi lúc, mọi nơi thông qua việc cung cấp dịch vụ tư vấn sức khỏe miễn phí và phân phối các sản phẩm dược phẩm chính hãng, hiệu quả, phù hợp bên cạnh đó là giá thành tốt nhất.
-Nhà thuốc luôn luôn lắng nghe và thấu hiểu những băn khoăn, nhu cầu của khách hàng khi đến với chúng tôi để nhà thuốc không chỉ là địa chỉ mua hàng uy tín, chất lượng mà còn là người bạn đồng hành tin cậy cho sức khỏe của bạn.
+						<h5 class="tt-title" style="color: #5dac46">CÁC TIỆN ÍCH VÀ DỊCH VỤ TẠI NHÀ THUỐC</h5>
+						<p>Để đảm bảo sự h&agrave;i l&ograve;ng tuyệt đối từ ph&iacute;a kh&aacute;ch h&agrave;ng, ch&iacute;nh s&aacute;ch chăm s&oacute;c kh&aacute;ch h&agrave;ng của ch&uacute;ng t&ocirc;i cũng kh&ocirc;ng ngừng đổi&nbsp;mới v&agrave; n&acirc;ng cao.&nbsp;Đối với kh&aacute;ch h&agrave;ng c&oacute; nhu cầu mua h&agrave;ng trực tiếp tại cửa h&agrave;ng th&igrave; sẽ đến Nh&agrave; Thuốc Lotus tại&nbsp;Số 59 ng&otilde; 42, phường S&agrave;i Đồng, quận Long Bi&ecirc;n, th&agrave;nh phố H&agrave; Nội để được tư vấn về c&aacute;c dịch vụ v&agrave; tiện &iacute;ch cũng như hướng dẫn giải quyết c&aacute;c thắc mắc của qu&yacute; kh&aacute;ch. Đối với những kh&aacute;ch h&agrave;ng mua h&agrave;ng theo h&igrave;nh thức mua h&agrave;ng trực tuyến qua website nhathuoclotus.com c&oacute; thể nhắn tin qua trang web hoặc li&ecirc;n hệ trực tiếp đến số hotline của nh&agrave; thuốc&nbsp;0357273443 để được tư vấn v&agrave; hỗ trợ về c&aacute;c dịch vụ.</p>
 
-            </p>
+<p>Với ch&uacute;ng t&ocirc;i, kh&aacute;ch h&agrave;ng lu&ocirc;n l&agrave; một trong những ưu ti&ecirc;n h&agrave;ng đầu v&igrave; thế c&aacute;c tiện &iacute;ch m&agrave; nh&agrave; thuốc mang lại sẽ lu&ocirc;n đ&aacute;p ứng được nhu cầu ng&agrave;y c&agrave;ng cao của thời đại, nh&agrave; thuốc lu&ocirc;n cam kết mang đến người sử dụng những sản phẩm ch&iacute;nh h&atilde;ng tốt nhất, gi&aacute; tốt nhất với ch&iacute;nh s&aacute;ch mua h&agrave;ng tiện lợi nhất, giao h&agrave;ng nhanh ch&oacute;ng chất, giải quyết vấn đề đổi trả h&agrave;ng hay thanh to&aacute;n nhanh nhất, thuận tiện nhất cho kh&aacute;ch h&agrave;ng, đội ngũ nh&acirc;n vi&ecirc;n của nh&agrave; thuốc lu&ocirc;n trực chiến 24/7 để phục vụ qu&yacute; kh&aacute;ch.</p>
 
 					</div>
           <div class="col-md-6">
