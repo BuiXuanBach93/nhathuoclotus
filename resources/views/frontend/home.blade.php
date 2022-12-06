@@ -761,7 +761,7 @@ use App\Constant;
                             <i class="icon-f-48"></i>
                         </div>
                         <div class="tt-col-description">
-                            <h4 class="tt-title">MIỄN PHÍ SHIP</h4>
+                            <h4 class="tt-title">SHIP SIÊU TỐC TOÀN QUỐC</h4>
                             <p>Miễn phí ship cho những đơn hàng trên 500k</p>
                         </div>
                     </a>
@@ -793,7 +793,7 @@ use App\Constant;
 
     <div class="container-indent">
         <div class="container">
-            <h1 class="tt-title-subpages noborder">THÔNG TIN SỨC KHOẺ</h1>
+            <h1 class="tt-title-subpages noborder">SỨC KHOẺ NGÀY MỚI</h1>
             <div class="tt-blog-masonry">
                 <div class="tt-blog-init tt-grid-col-4 tt-layout-01-post tt-add-item tt-show">
                     @foreach ($newses as $key=> $news)
