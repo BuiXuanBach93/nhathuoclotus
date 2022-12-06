@@ -1,79 +1,81 @@
 @extends('layouts.frontend_home')
-<script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "MedicalBusiness",
-        "name": "Nhà Thuốc Lotus",
-        "image": "https://nhathuoclotus.com/images/logo_nhathuoclotus.png",
-        "@id": "https://nhathuoclotus.com#MedicalBusiness",
+@section('schema')
+<script type=application/ld+json>
+      {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "@id": "https://nhathuoclotus.com#WebPage",
         "url": "https://nhathuoclotus.com",
-        "telephone": "+84355258365",
-        "priceRange": "500",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Tòa V8 The Vesta, Phú Lãm, Hà Đông, Hà Nội",
-          "addressLocality": "TP. Hà Nội",
-          "postalCode": "100000",
-          "addressCountry": "VN"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 20.945393,
-          "longitude": 105.755947
-        },
-        "openingHoursSpecification": {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday",
-            "Saturday",
-            "Sunday"
-          ],
-          "opens": "08:00",
-          "closes": "22:00"
-        },
-        "sameAs": [
-            "https://www.facebook.com/nhathuoclotus.com",
-            "https://www.instagram.com/nhathuoclotus",
-            "https://twitter.com/thanhbinhpharma",
-            "https://nhathuoclotus.tumblr.com",
-            "https://nhathuoclotus.business.site",
-            "https://www.pinterest.com/nhathuoclotus",
-            "https://www.linkedin.com/in/nhathuoclotus"
-        ],
-        "founder": {
-            "@type": "Person",
-            "alternateName": ["Nguyễn Thị Bình", "Nguyen Thi Binh"],
-            "sameAs": ["http://www.linkedin.com/in/dsnguyenthibinh", 
-                    "https://www.pinterest.com/dsnguyenthibinh/", 
-                    "https://vi.gravatar.com/dsnguyenthibinh", 
-                    "https://www.instagram.com/dsnguyenthibinh/", 
-                    "https://dsnguyenthibinh.tumblr.com/",
-                    "https://twitter.com/dsnguyenthibinh",
-                    "https://www.flickr.com/people/dsnguyenthibinh"], 
-            "url": "https://nhathuoclotus.com/nguyen-thi-binh", 
-            "mainEntityOfPage": "https://nhathuoclotus.com/nguyen-thi-binh", 
-            "@id": "https://nhathuoclotus.com/nguyen-thi-binh#person", 
-            "familyName": "Nguyễn", 
-            "additionalName": "Thị", 
-            "givenName": "Bình", 
-            "name": "Nguyễn Thị Bình",
-            "description": "Dược sĩ Nguyễn Thị Bình với trình độ chuyên môn cao cũng như những kinh nghiệm vững vàng là đầu tàu cho đội ngũ dược sĩ trẻ tại nhà thuốc, các dược sĩ công tác tại Nhà Thuốc Lotus.", 
-            "jobTitle": {
-                "@type": "DefinedTerm",
-                "name": "CEO",
-                "description": "CEO là viết tắt của từ Chief Executive Officer, có nghĩa là giám đốc điều hành, giữ trách nhiệm thực hiện những chính sách của hội đồng quản trị. Ở những tập đoàn có tổ chức chặt chẽ, các bạn sẽ thấy chủ tịch hội đồng quản trị thường đảm nhận luôn chức vụ CEO này"
-            }
-            ,
-            "gender":"https://schema.org/Female",
-            "email":"dsnguyenthibinh@gmail.com",
-            "image":"https://nhathuoclotus.com/images/duoc-si-nguyen-thi-binh.jpg"
+        "name": "Nhà thuốc Lotus | Hiệu thuốc - Nhà thuốc online uy tín tại Hà Nội",
+        "description": "Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu",
+        "inLanguage": "vi",
+        "isPartOf": {
+          "@type": "WebSite",
+          "@id": "https://nhathuoclotus.com/#website",
+          "url": "https://nhathuoclotus.com",
+          "name": "Nhà thuốc Lotus",
+          "description": "Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu",
+          "alternateName": "Nhà thuốc Lotus",
+          "inLanguage": "vi",
+          "publisher": {
+            "@id": "https://nhathuoclotus.com/#Organization"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://nhathuoclotus.com/tim-kiem?word={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
         }
-    }    
-</script>
+      }
+    </script>
+
+<script type=application/ld+json>
+      {
+        "@context": "http://schema.org",
+        "@id": "https://nhathuoclotus.com/#Organization",
+        "@type": "Organization",
+        "name": "Nhà thuốc Lotus",
+        "url": "https://nhathuoclotus.com",
+        "logo": {
+            "@type" : "ImageObject",
+            "url"   : "https://nhathuoclotus.com/images/logo_nhathuoclotus.png",
+            "width" : "399",
+            "height" : "127"
+        },
+        "location" : {
+            "@type" : "Place",
+            "name"  : "Nhà thuốc Lotus",
+            "hasMap" : "https://www.google.com/maps/place/Nh%C3%A0+Thu%E1%BB%91c+Lotus+H%C3%A0+N%E1%BB%99i/@21.0327466,105.9127631,15z/data=!4m5!3m4!1s0x0:0x6d5b93c8f372d20d!8m2!3d21.0327466!4d105.9127631",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 21.0327466,
+              "longitude": 105.9127631
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Long Biên",
+              "addressRegion": "Hà Nội",
+              "postalCode": "100000",
+              "streetAddress": "59 Ng. 42 P. Sài Đồng, TT. Sài Đồng, Long Biên, Hà Nội",
+              "addressCountry": {
+                "@type" : "Country",
+                "name"  : "VN"
+              }
+            }
+        },
+        "email": "nhathuoclotus@gmail.com",
+        "additionalType": ["https://vi.wikipedia.org/wiki/Nh%C3%A0_thu%E1%BB%91c_%C4%91%E1%BA%A1t_chu%E1%BA%A9n_GPP", "https://en.wikipedia.org/wiki/Drug", "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_ph%E1%BA%A9m_ch%E1%BB%A9c_n%C4%83ng", "https://vi.wikipedia.org/wiki/D%C6%B0%E1%BB%A3c_ph%E1%BA%A9m"],
+        "contactPoint": [{
+          "@type": "ContactPoint",
+          "telephone": "0357273443",
+          "contactType": "customer service",
+          "areaServed": "VN",
+          "availableLanguage": ["EN", "VN"]
+        }],
+        "sameAs": ["https://www.facebook.com/nhathuoclotus", "https://twitter.com/nhathuoclotus", "https://www.linkedin.com/company/nhathuoclotus", "https://nhathuoclotus.business.site", "https://www.pinterest.com/nhathuoclotus/", "https://www.instagram.com/nhathuoclotus", "https://nhathuoclotus.tumblr.com"]
+      }
+    </script>
+@endsection
 <?php
 use App\Constant;
 ?>

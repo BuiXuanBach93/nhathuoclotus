@@ -845,47 +845,88 @@ border-radius: 6px; }
 $productUrl = Constant::DOMAIN.genProductLink($category['slug'], $product['slug']);
 $authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
 ?>
-<script type="application/ld+json">
-{
-    "@context":"https://schema.org",
-    "@graph":[
-       {
-          "@type":"ImageObject",
-          "@id":"{{$productUrl}}#primaryimage",
-          "inLanguage":"vi-VN",
-          "url":"{{$product['seo_image']}}",
-          "caption":"{{$product['seo_title']}}"
-       },
-       {
-          "@type":"WebPage",
-          "@id":"{{$productUrl}}#webpage",
-          "url":"{{$productUrl}}",
-          "name":"{{$product['seo_title']}}",
-          "isPartOf":{
-             "@id":"https://nhathuoclotus.com/#website"
+
+<script type=application/ld+json>
+      {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "@id": "https://nhathuoclotus.com#WebPage",
+        "url": "https://nhathuoclotus.com",
+        "name": "Nhà thuốc Lotus | Hiệu thuốc - Nhà thuốc online uy tín tại Hà Nội",
+        "description": "Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu",
+        "inLanguage": "vi",
+        "isPartOf": {
+          "@type": "WebSite",
+          "@id": "https://nhathuoclotus.com/#website",
+          "url": "https://nhathuoclotus.com",
+          "name": "Nhà thuốc Lotus",
+          "description": "Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu",
+          "alternateName": "Nhà thuốc Lotus",
+          "inLanguage": "vi",
+          "publisher": {
+            "@id": "https://nhathuoclotus.com/#Organization"
           },
-          "primaryImageOfPage":{
-             "@id":"{{$productUrl}}#primaryimage"
-          },
-          "datePublished":"{{$product['created_at']}}",
-          "dateModified":"{{$product['updated_at']}}",
-          "description":"{{$product['seo_description']}}",
-          "breadcrumb":{
-             "@id":"{{$productUrl}}#breadcrumb"
-          },
-          "inLanguage":"vi-VN",
-          "potentialAction":[
-             {
-                "@type":"ReadAction",
-                "target":[
-                   "{{$productUrl}}"
-                ]
-             }
-          ]
-       },
-       {
-          "@type":"BreadcrumbList",
-          "@id":"{{$productUrl}}#breadcrumb",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://nhathuoclotus.com/tim-kiem?word={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      }
+    </script>
+
+<script type=application/ld+json>
+      {
+        "@context": "http://schema.org",
+        "@id": "https://nhathuoclotus.com/#Organization",
+        "@type": "Organization",
+        "name": "Nhà thuốc Lotus",
+        "url": "https://nhathuoclotus.com",
+        "logo": {
+            "@type" : "ImageObject",
+            "url"   : "https://nhathuoclotus.com/images/logo_nhathuoclotus.png",
+            "width" : "399",
+            "height" : "127"
+        },
+        "location" : {
+            "@type" : "Place",
+            "name"  : "Nhà thuốc Lotus",
+            "hasMap" : "https://www.google.com/maps/place/Nh%C3%A0+Thu%E1%BB%91c+Lotus+H%C3%A0+N%E1%BB%99i/@21.0327466,105.9127631,15z/data=!4m5!3m4!1s0x0:0x6d5b93c8f372d20d!8m2!3d21.0327466!4d105.9127631",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 21.0327466,
+              "longitude": 105.9127631
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Long Biên",
+              "addressRegion": "Hà Nội",
+              "postalCode": "100000",
+              "streetAddress": "59 Ng. 42 P. Sài Đồng, TT. Sài Đồng, Long Biên, Hà Nội",
+              "addressCountry": {
+                "@type" : "Country",
+                "name"  : "VN"
+              }
+            }
+        },
+        "email": "nhathuoclotus@gmail.com",
+        "additionalType": ["https://vi.wikipedia.org/wiki/Nh%C3%A0_thu%E1%BB%91c_%C4%91%E1%BA%A1t_chu%E1%BA%A9n_GPP", "https://en.wikipedia.org/wiki/Drug", "https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_ph%E1%BA%A9m_ch%E1%BB%A9c_n%C4%83ng", "https://vi.wikipedia.org/wiki/D%C6%B0%E1%BB%A3c_ph%E1%BA%A9m"],
+        "contactPoint": [{
+          "@type": "ContactPoint",
+          "telephone": "0357273443",
+          "contactType": "customer service",
+          "areaServed": "VN",
+          "availableLanguage": ["EN", "VN"]
+        }],
+        "sameAs": ["https://www.facebook.com/nhathuoclotus", "https://twitter.com/nhathuoclotus", "https://www.linkedin.com/company/nhathuoclotus", "https://nhathuoclotus.business.site", "https://www.pinterest.com/nhathuoclotus/", "https://www.instagram.com/nhathuoclotus", "https://nhathuoclotus.tumblr.com"]
+      }
+    </script>
+
+<script type=application/ld+json>
+      {       
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "@id": "https://nhathuoclotus.com/{{$product->slug}}#breadcrumb",
           "itemListElement":[
              {
                 "@type":"ListItem",
@@ -919,64 +960,74 @@ $authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
                 }
              }
           ]
-       },
-       {
-            "@type": "Product",
-            "name": "{{ $product['title']}}",
-            "description": "{{$product['description']}}",
-            "image": "{{isset($pageImage) ? $pageImage : Constant::PAGE_IMAGE}}",
-            "url": "{{$productUrl}}",
-            "sku": "{{$product->sku}}",
-            "mpn": "{{$product->sku}}",
-            "brand": {
-                "@type": "Thing",
-                "name": "{{$product->provider['title']}}"
-            },  
-            "offers": {
+        }
+</script>
+
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org/",
+        "@type": "Product",
+        "productID": "{{$product->id}}",
+        "category": "{{$category->title}}",
+        "additionalType": ["https://en.wikipedia.org/wiki/Drug","https://vi.wikipedia.org/wiki/D%C6%B0%E1%BB%A3c_ph%E1%BA%A9m","https://vi.wikipedia.org/wiki/Th%E1%BB%B1c_ph%E1%BA%A9m_ch%E1%BB%A9c_n%C4%83ng"],
+        "name": "{{ $product['title']}}",
+        "description": "{{$product['description']}}",
+        "image": "{{isset($pageImage) ? $pageImage : Constant::PAGE_IMAGE}}",
+        "url": "{{$productUrl}}",
+        "sku": "{{$product->sku}}",
+        "mpn": "{{$product->id}}NTLT",
+        "brand": {
+            "@type": "Thing",
+            "name": "{{$product->provider['title']}}"
+        },
+        "offers": {
                 "@type": "Offer",
                 "url": "{{$productUrl}}",
                 "priceCurrency": "VND",
                 "price": "{{$product->price}}",
-                "priceValidUntil": "2025-05-21",
+                "priceValidUntil": "2050-01-01",
                 "itemCondition": "https://schema.org/UsedCondition",
                 "availability": "https://schema.org/InStock",
                 "seller": {
                     "@type": "Organization",
                     "name": "{{Constant::WEB_NAME}}"
                 }
-            }
-            <?php if ($numberRating){?>
-            ,
-            "aggregateRating":{
-                "@type":"AggregateRating",
-                "ratingValue":"{{$score}}",
-                "reviewCount":"{{$numberRating}}"
-            }
-            <?php } ?>
-       },
-       {
-          "@type":[
-             "Person"
-          ],
-          "@id":"{{$authorUrl}}#person",
-          "name":"Nguyễn Thị Bình",
-          "image": "https://nhathuoclotus.com/images/duoc-si-nguyen-thi-binh.jpg",
-          "jobTitle": "Consulting Doctor",
-          "description":"Dược sĩ Nguyễn Thị Bình với trình độ chuyên môn cao cũng như những kinh nghiệm vững vàng là đầu tàu cho đội ngũ dược sĩ trẻ tại nhà thuốc, các dược sĩ công tác tại Nhà Thuốc Lotus.",
-          "sameAs": ["http://www.linkedin.com/in/dsnguyenthibinh", 
-                    "https://www.pinterest.com/dsnguyenthibinh/", 
-                    "https://vi.gravatar.com/dsnguyenthibinh", 
-                    "https://www.instagram.com/dsnguyenthibinh/", 
-                    "https://dsnguyenthibinh.tumblr.com/",
-                    "https://twitter.com/dsnguyenthibinh",
-                    "https://www.flickr.com/people/dsnguyenthibinh"],
-          "worksFor": {
-            "@type": "Organization",
-            "name": "Nhà Thuốc Lotus"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "bestRating": "5",
+          "reviewCount": "5",
+          "itemReviewed" : {
+            "@type" : "Thing",
+            "name"  : "{{$product->title}}" 
+          }
         }
-       }
-    ]
-}
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "@id":"{{$authorUrl}}#person",
+        "name":"Nguyễn Thị Bình",
+        "image": "https://nhathuoclotus.com/images/duoc-si-nguyen-thi-binh.jpg",
+        "jobTitle": "Consulting Doctor",
+        "description":"Dược sĩ Nguyễn Thị Bình với trình độ chuyên môn cao cũng như những kinh nghiệm vững vàng là đầu tàu cho đội ngũ dược sĩ trẻ tại nhà thuốc, các dược sĩ công tác tại Nhà Thuốc Lotus.",
+        "sameAs": ["http://www.linkedin.com/in/dsnguyenthibinh", 
+                  "https://www.pinterest.com/dsnguyenthibinh/", 
+                  "https://vi.gravatar.com/dsnguyenthibinh", 
+                  "https://www.instagram.com/dsnguyenthibinh/", 
+                  "https://dsnguyenthibinh.tumblr.com/",
+                  "https://twitter.com/dsnguyenthibinh",
+                  "https://www.flickr.com/people/dsnguyenthibinh"],
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Nhà Thuốc Lotus"
+      }
+    }
 </script>
 @endsection
 @section('content')
