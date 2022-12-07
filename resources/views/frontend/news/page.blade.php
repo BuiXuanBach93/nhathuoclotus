@@ -3,6 +3,16 @@ use App\Constant;
 ?>
 @extends('layouts.frontend')
 @section('content')
+<style type="text/css">
+    h1, h2, h3, h4, h5, h6 {
+    display: block;
+    position: relative;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #343a40;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+</style>
 <div class="tt-breadcrumb">
     <div class="container">
         <ul>
