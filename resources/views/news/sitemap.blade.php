@@ -45,21 +45,9 @@
     <changefreq>weekly</changefreq>
 </url>
 <url>
-    <loc>https://nhathuoclotus.com/nguyen-thi-binh</loc>
+    <loc>https://nhathuoclotus.com/nguyen-hong-mai</loc>
     <priority>0.2</priority>
     <changefreq>weekly</changefreq>
-</url>
-<url>
-    <loc>https://nhathuoclotus.com/author/dung-nguyen</loc>
-    <priority>1</priority>
-</url>
-<url>
-    <loc>https://nhathuoclotus.com/author/loan-nguyen</loc>
-    <priority>0.2</priority>
-</url>
-<url>
-    <loc>https://nhathuoclotus.com/author/dang-my</loc>
-    <priority>0.2</priority>
 </url>
 <url>
     <loc>https://nhathuoclotus.com/tin-tuc</loc>

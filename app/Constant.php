@@ -25,7 +25,7 @@ class Constant
     const ADDRESS = 'Số 59, ngõ 42, Sài Đồng, Long Biên, Hà Nội';
     const WEB_NAME = "Nhà Thuốc Lotus";
     const DOMAIN = "https://nhathuoclotus.com"; # Homepage
-
+    const AUTHOR_SLUG = "nguyen-hong-mai";
     const FREESHIP_THRESHOLD = 500000;
     const SHIPPING_FEE = 30000;
 }

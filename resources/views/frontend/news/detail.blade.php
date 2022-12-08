@@ -476,7 +476,7 @@ $authorUrl = Constant::DOMAIN.genAuthorLink($author['slug']);
 								<a href="tel:{{Constant::PHONE_NUMBER}}" class="phone">
 									<img src="{{ asset('/images/loader.svg') }}" width="800" height="400" alt="" data-src="{{ asset('/images/tu-van.jpg')}}">
 								</a>
-								<p> Bác Sỹ <a href="https://nhathuoclotus.com/nguyen-thi-binh">Nguyễn Thị Bình</a> - người kiểm duyệt nội dung bài viết</p>
+								<p> Dược Sỹ <a href="https://nhathuoclotus.com/nguyen-hong-mai">Nguyễn Hồng Mai</a> - người kiểm duyệt nội dung bài viết</p>
 							</div>
 						</div>
 					</div>

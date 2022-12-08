@@ -87,7 +87,15 @@ class NewsController extends Controller
         } catch (\Throwable $th) {
             return redirect('/404');
         }
-
+        if($slug = Constant::AUTHOR_SLUG){
+            return view('frontend/news/page-author', [
+                'page' => $page,
+                'pageTitle'         => $page->title,
+                'pageKeyword'       => $page->seo_keyword,
+                'pageDesc'          => $page->seo_description,
+                'pageImage'         => $page->seo_image
+            ]);
+        }
         return view('frontend/news/page', [
             'page' => $page,
             'pageTitle'         => $page->title,

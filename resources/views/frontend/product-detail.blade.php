@@ -843,7 +843,7 @@ border-radius: 6px; }
 @section('schema')
 <?php 
 $productUrl = Constant::DOMAIN.genProductLink($category['slug'], $product['slug']);
-$authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
+$authorUrl = "https://nhathuoclotus.com/nguyen-hong-mai";
 ?>
 
 <script type=application/ld+json>
@@ -978,7 +978,7 @@ $authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
         "sku": "{{$product->sku}}",
         "mpn": "{{$product->id}}NTLT",
         "brand": {
-            "@type": "Thing",
+            "@type": "Brand",
             "name": "{{$product->provider['title']}}"
         },
         "offers": {
@@ -1004,29 +1004,6 @@ $authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
             "name"  : "{{$product->title}}" 
           }
         }
-    }
-</script>
-
-<script type="application/ld+json">
-    {
-        "@context": "http://schema.org/",
-        "@type": "Person",
-        "@id":"{{$authorUrl}}#person",
-        "name":"Nguyễn Thị Bình",
-        "image": "https://nhathuoclotus.com/images/duoc-si-nguyen-thi-binh.jpg",
-        "jobTitle": "Consulting Doctor",
-        "description":"Dược sĩ Nguyễn Thị Bình với trình độ chuyên môn cao cũng như những kinh nghiệm vững vàng là đầu tàu cho đội ngũ dược sĩ trẻ tại nhà thuốc, các dược sĩ công tác tại Nhà Thuốc Lotus.",
-        "sameAs": ["http://www.linkedin.com/in/dsnguyenthibinh", 
-                  "https://www.pinterest.com/dsnguyenthibinh/", 
-                  "https://vi.gravatar.com/dsnguyenthibinh", 
-                  "https://www.instagram.com/dsnguyenthibinh/", 
-                  "https://dsnguyenthibinh.tumblr.com/",
-                  "https://twitter.com/dsnguyenthibinh",
-                  "https://www.flickr.com/people/dsnguyenthibinh"],
-        "worksFor": {
-          "@type": "Organization",
-          "name": "Nhà Thuốc Lotus"
-      }
     }
 </script>
 @endsection
@@ -1240,18 +1217,18 @@ $authorUrl = "https://nhathuoclotus.com/nguyen-thi-binh";
                         </div>
                         <div style="display: none;" class="author">
                             <a href="tel:0376668305" class="phone">
-                                <img src="{{ asset('/images/loader.svg') }}" width="800" height="400" alt="Tư vấn bởi Nguyễn Thị Bình" data-src="{{ asset('/images/tu-van.jpg')}}">
+                                <img src="{{ asset('/images/loader.svg') }}" width="800" height="400" alt="Tư vấn bởi Nguyễn Hồng Mai" data-src="{{ asset('/images/tu-van.jpg')}}">
                             </a>
-                            <p> Bác Sỹ <a href="https://nhathuoclotus.com/nguyen-thi-binh">Nguyễn Thị Bình</a> - cố vấn chuyên môn Nhà Thuốc Lotus</p>
+                            <p> Bác Sỹ <a href="https://nhathuoclotus.com/nguyen-hong-mai">Nguyễn Hồng Mai</a> - cố vấn chuyên môn Nhà Thuốc Lotus</p>
                         </div>
                         <div class="single-post-meta row align-items-center">
                   <div class="col-md-6 mr-auto align-items-center">
                       <div class="avartar">
-                      <img alt="Nguyễn Thị Bình" src="/images/author_nguyen-thi-binh.jpg" height="35" width="35">
+                      <img alt="Nguyễn Hồng Mai" src="/images/author_nguyen-hong-mai.jpg" height="35" width="35">
                       </div>
                       <div>
                         <span class="author">Tác giả</span>
-                      <a href="/nguyen-thi-binh" class="author-link" rel="author"> Dược sĩ Nguyễn Thị Bình</a>
+                      <a href="/nguyen-hong-mai" class="author-link" rel="author"> Dược sĩ Nguyễn Hồng Mai</a>
                       </div>
                     </div>
                     <div class="ml-auto col-md-6">

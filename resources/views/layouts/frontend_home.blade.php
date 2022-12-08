@@ -242,7 +242,7 @@ $isMobile = isMobile();
                                                 <a href="/gioi-thieu">VỀ CHÚNG TÔI</a>
                                             </li>
                                              <li class="dropdown tt-megamenu-col-01">
-                                                <a href="/nguyen-thi-binh">DƯỢC SĨ</a>
+                                                <a href="/nguyen-hong-mai">DƯỢC SĨ</a>
                                             </li>
                                         </ul>
                                     </nav>
@@ -390,7 +390,7 @@ $isMobile = isMobile();
                     <a href="/gioi-thieu">VỀ CHÚNG TÔI</a>
                 </li>
                 <li>
-                    <a href="/nguyen-thi-binh">DƯỢC SĨ</a>
+                    <a href="/nguyen-hong-mai">DƯỢC SĨ</a>
                 </li>
             </ul>
             <div class="mm-navbtn-names">

@@ -18,72 +18,66 @@ use App\Constant;
 <div id="tt-pageContent">
 	<div class="container-indent">
 		<div class="container container-fluid-custom-mobile-padding">
-			<h1 class="tt-title-subpages">CÂU HỎI THƯỜNG GẶP</h1>
-			<h2 class="tt-base-color small">Chúng tôi giải đáp tất cả những thăc mắc của khách hàng</h2>
+			<h1 class="tt-title-subpages">KHÁCH HÀNG THƯỜNG HỎI NHÀ THUỐC NHỮNG GÌ?</h1>
+			<h2 class="tt-base-color small">Có thể bạn quan tâm đến những thông tin dưới đây</h2>
 			<div class="tt-box-faq-listing">
 				<div class="row">
 					<div class="col-sm-12 col-md-6">
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Sản phẩm của Nhà Thuốc Lotus có chính hãng không?</a></h6>
-							Tất cả các sản phẩm tại Nhà Thuốc Lotus đều được phân phối chính hãng từ nhà sản xuất và các công ty nhập khẩu từ nước ngoài, vì thế các sản phẩm của chúng tôi hoàn toàn đảm bảo được chất lượng, nguồn gốc, xuất xứ chính hãng cũng như mức giá thành phải chăng đến tay người tiêu dùng.
-						</div>
-						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Đặt hàng trên Nhà Thuốc Lotus như thế nào?</a></h6>
-							Quý khách hàng sinh sống và làm việc tại mọi miền trên tổ quốc đều có thể dễ dàng tiếp cận và đặt mua hàng tại Nhà Thuốc Lotus thông qua 2 hình thức sau:</br>
+							<h3 class="tt-title"><a href="#">Làm thế nào để mua thuốc của Nhà Thuốc Lotus?</a></h6>
+							Khách hàng rât dễ dàng của thể mua thuốc bằng rất nhiều cách:</br>
 							+ Cách 1: Đặt hàng qua website: https://nhathuoclotus.com </br>
-							+ Cách 2: Đặt hàng qua hotline của nhà thuốc: 0355258365.
+							+ Cách 2: Đặt hàng qua hotline của nhà thuốc: 035.727.3443</br>
+							+ Cách 3: Đặt hàng qua facebook hoặc Zalo của nhà thuốc</br>
+							+ Cách 4: Mua hàng trực tiếp tại hiệu thuốc theo địa chỉ số 59, ngõ 42, Sài Đồng, Long Biên, Hà Nội</br>
 						</div>
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Khi nhận sản phẩm, tôi thấy hộp đựng bên ngoài bị bẹp và rách một chút, như vậy sản phẩm bên trong có đảm bảo chất lượng không?</a></h6>
-							Các sản phẩm trước khi chuyển cho khách hàng, công ty luôn đảm bảo thực hiện đầy đủ các bước dán tem, in hóa đơn và đóng gói hàng cẩn thận, khi nhận hàng quý khách vui lòng kiểm tra kĩ sản phẩm bên trong, nếu như sản phẩm vẫn còn đầy đủ tem mác và hóa đơn thì quý khách có thể hoàn toàn an tâm về chất lượng sản phẩm. Có thể do một số sơ suất trong quá trình vận chuyển làm bóp méo vỏ hộp bên ngoài tuy nhiên điều này hoàn toàn không gây ảnh hưởng đến chất lượng sản phẩm bên trong.
+							<h6 class="tt-title"><a href="#">Làm sao biết được sản phẩm là chính hãng hay hàng giả?</a></h6>
+							Sản phẩm trên nhà thuốc Lotus được phân phối trực tiếp từ nhà sản xuất hoặc nhập khẩu chính hãng thông qua công ty phân phối của hãng dược. Sản phẩm bán luôn có đi kèm với tem chống hàng giả, tem bảy màu, và tem phụ của công ty phân phối sản phẩm. Khách hàng kiểm tra đầy đủ thông tin công ty sản xuất, công ty phân phối, ngày sản xuất, ngày hết hạn. Tất cả thông tin đều rõ ràng và minh bạch.
 						</div>
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Tôi thấy có một số sản phẩm trên web đắt hơn các web khác?</a></h6>
-							Có 2 lí do để chúng tôi giải thích cho việc này. </br>
-Thứ nhất Nhà Thuốc Lotus luôn nói không với những sản phẩm không có nguồn gốc, xuất xứ rõ ràng, những mặt hàng trôi nổi trên thị trường không đảm bảo chất lượng.</br>
-Thứ hai: Chúng tôi nhập hàng chính hãng tại nhà cung cấp và luôn cam kết không bán phá giá thị trường.</br>
-Để có thể hỗ trợ tối ưu cho khách hàng mua sản phẩm tại Nhà Thuốc Lotus, chúng tối luôn đưa ra mức giá thành tốt nhất với mức cạnh tranh cao kèm các chương trình ưu đãi phù hợp đến với khách hàng và đảm bảo các chính sách của công ty.
+							<h6 class="tt-title"><a href="#">Chính sách đổi trả của nhà thuốc Lotus như thế nào?</a></h6>
+							Nhà thuốc Lotus luôn hỗ trợ khách hàng đầy đủ trong suốt quá trình mua hàng, và sử dụng sản phẩm. Theo quy định của nhà thuốc, sản phẩm được phép đổi trả phải đảm bảo các tiêu chí như thời gian mua không quá 10 ngày, sản phẩm vẫn còn nguyên đai kiện, chưa bóc tem nhãn hoặc sử dụng. Để biết thêm thông tin chi tiết, khách hàng tham khảo chi tiết tại <a href="/chinh-sach-doi-tra">quy định đổi trả</a>.
+						</div>
+						<div class="tt-box-faq">
+							<h6 class="tt-title"><a href="#">Nếu sử dụng thuốc không có hiệu quả thì nên làm thế nào?</a></h6>
+							Khi sử dụng thuốc không có hiệu quả như mong đợi, quý khách có thể liên hệ trực tiếp với nhà thuốc thông qua các kênh hotline, facebook hoặc Zalo để được tư vấn trực tiếp từ dược sĩ chuyên môn. Tùy vào từng trường hợp nhà thuốc sẽ có những tư vấn cụ thể giúp cho khách hàng sử dụng sản phẩm hiệu quả nhất.
+						</div>
+						<div class="tt-box-faq">
+							<h6 class="tt-title"><a href="#">Nhà thuốc Lotus bán hàng có chính hãng không?
+
+
+</a></h6>
+							Một lần nữa khẳng định với khách hàng của Nhà Thuốc Lotus, những sản phẩm trên website là sản phẩm được bán trực tiếp tại quầy thuốc, có đầy đủ giấy tờ pháp lý theo cấp phép của cơ quan có thẩm quyền. Sản phẩm được kiểm duyệt nghiêm ngặt của quản lý thị trường dược. Vậy nên sản phẩm của nhà thuốc luôn luôn là sản phẩm chính hãng.
+
 						</div>
 					</div>
 					<div class="col-sm-12 col-md-6">
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Khi nhận sản phẩm, nếu tôi không hài lòng về sản phẩm vậy tôi có được hoàn trả lại sản phẩm hoặc đổi sang một sản phẩm khác không?
+							<h6 class="tt-title"><a href="#">Tôi thấy giá sản phẩm trên website đắt hơn so với các bên khác như shopee, lazada.
 </a></h6>
-							Trong trường hợp quý khách muốn đổi sang một sản phẩm khác, phía công ty sẵn sàng nhận lại sản phẩm đã bán, quý khách vui lòng thanh toán phí vận chuyển lần 2.
-Trường hợp khách hàng trả lại sản phẩm và không muốn mua nữa quý khách vui lòng thanh toán phí vận chuyển cho công ty, chúng tôi sẽ hoàn trả lại tiền đầy đủ khi đã nhận lại sản phẩm, trước khi trả lại sản phẩm quý khách vui lòng lưu ý:</br>
-+ Kiểm tra hàng ngay khi nhận được.</br>
-+ Sản phẩm còn mới, chưa sử dụng.</br>
-+ Tem mác còn nguyên không bị rách hay hư hỏng.  
+							Như khách hàng cũng đã biết, mua hàng online luôn là cuộc chiến của hàng thật và hàng giả. Những sản phẩm nhái với mức giá sản xuất thấp hơn nhiều so với sản phẩm chính hãng. Và cũng rất dễ dàng để bán những loại sản phẩm này trên các kênh thương mại điện tử, nơi không có được sự quản lý chặt chẽ của các cơ quan chức năng. Giá sản phẩm trên các kênh thương mại điện tự tử như Shopee và Lazada cũng rẻ hơn vì lý do này. 
 						</div>
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Khi tôi đặt hàng tại Nhà Thuốc Lotus, tôi phải thanh toán như thế nào?
+							<h6 class="tt-title"><a href="#">Nhà thuốc có nhập sỉ hay không, tôi cũng kinh doanh nhà thuốc?
 </a></h6>
-							Có 2 hình thức thanh toán khi quý khách mua sản phẩm tại Nhà Thuốc Lotus như sau:</br>
-+ Thanh toán trực tiếp cho người giao hàng.</br>
-+ Thanh toán qua ngân hàng hoặc ATM
-
+							Đối với khách hàng là đại lý hoặc nhà thuốc, hiệu thuốc, Nhà Thuốc Lotus chỉ áp dụng nhập sỉ với một số loại mặt hàng. Để có được thông tin chi tiết về sản phẩm và giá cả, quý khách vui lòng liên hệ trực tiếp tới hotline của nhà thuốc để được hỗ trợ tốt nhất.
 						</div>
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Tôi đã từng mua sản phẩm tại nhà thuốc, nếu tôi mua tiếp liệu tôi có được giảm giá không?
+							<h6 class="tt-title"><a href="#">Nhà thuốc có những chương trình khuyến mãi cho khách hàng thân thiết không?
 </a></h6>
-							Khi quý khách mua bất kì sản phẩm nào tại nhà thuốc Thanh Binh đều sẽ được tích một số điểm nhất định, với số điểm này quý khách sẽ được ưu đãi trong những lần mua hàng tiếp theo.
-Đối với những khách hàng thân thiết tại Nhà Thuốc Lotus sẽ thường xuyên được tham gia các chương trình tặng mã giảm giá/ thẻ giảm giá để hỗ trợ khách hàng mua sắm tối đa nhất.
+							Nhà thuốc Lotus rất biết ơn những khách hàng đã sử dụng dịch vụ của nhà thuốc, cũng chính vì thế, để tri ân khách hàng, nhà thuốc luôn có những chương trình mua hàng rất hấp dẫn áp dụng cho khách hàng thân thiết. Tại mỗi đợt khuyến mãi, khách hàng của Nhà Thuốc Lotus luôn được thông báo để cập nhật được thông tin khuyến mãi để kịp thời mua được sản phẩm tốt giá tốt nhất.
 						</div>
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Bao lâu thì tôi có thể nhận được hàng mình đã đặt?
-
+							<h6 class="tt-title"><a href="#">Tôi không muốn tiết lộ thông tin cá nhân và sản phẩm mua hàng.
 </a></h6>
-							Đối với các đơn hàng tại Hà Nội: Bạn sẽ nhận được sản phẩm sau 24h - 48h khi đặt hàng.
-Đối với các đơn hàng tại tỉnh khác: Quý khách sẽ nhận được hàng sau 2 - 5 ngày sau khi đặt.
+							Thông tin cá nhân của khách hàng là một trong những thông tin quan trọng và nhạy cảm nhất, hiểu được vấn đề này, nhà thuốc luôn cam kết bảo mật thông tin cho khách hàng. Mọi thông tin khách hàng cung cấp chỉ được sử dụng để tư vấn sản phẩm và giao vận. Khách hàng tham khảo <a href="/chinh-sach-bao-mat">chính sách bảo mật thông tin</a> của Nhà thuốc Lotus.
 						</div>
 						<div class="tt-box-faq">
-							<h3 class="tt-title"><a href="#">Tôi muốn biết mức phí giao hàng tại nhà thuốc?
-
+							<h6 class="tt-title"><a href="#">Đặt hàng online có được kiểm tra hàng trước khi thanh toán không?
 
 </a></h6>
-							Đối với đơn hàng trên 500.000đ: Quý khách được miễn phí vận chuyển.
-Đối với đơn hàng dưới 500.000đ: Quý khách thanh toán 30.000đ cho mỗi đơn hàng.
-
+							Khách hàng đặt hàng sản phẩm online hoàn toàn được phép kiểm tra sản phẩm trước khi thanh toán. Nhà thuốc hỗ trợ giao hàng nhanh toàn quốc, chỉ sau 1 - 3 ngày làm việc quý khách có thể nhận được đơn hàng. Trước khi thanh toán, quý khách kiểm tra đúng sản phẩm, tem nhãn, hạn sử dụng. Sau khi thông tin đã đầy đủ và chính xác, quý khách mới cần tiết hành thanh toán cho nhân viên bưu chính. Ngoài ra, quý khách cũng có thể sử dụng hình thức thanh toán chuyển khoản. Để biết thêm chi tiết, quý khách vui lòng tham khảo <a href="/hinh-thuc-thanh-toan">hình thức thanh toán</a>.
 						</div>
 					</div>
 				</div>

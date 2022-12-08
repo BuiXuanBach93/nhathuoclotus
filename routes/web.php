@@ -102,7 +102,7 @@ Route::group(['namespace' => 'Frontend'], function () {
     Route::get('/hinh-thuc-thanh-toan', 'NewsController@page');
     Route::get('/chinh-sach-bao-mat', 'NewsController@page');
     Route::get('/quy-dinh-su-dung', 'NewsController@page');
-    Route::get('/nguyen-thi-binh', 'NewsController@page');
+    Route::get('/nguyen-hong-mai', 'NewsController@page');
 
     Route::get('/thuong-hieu/{providerSlug}', 'HomeController@provider');
     Route::get('/tags', 'HomeController@tags')->name('tags_product');
