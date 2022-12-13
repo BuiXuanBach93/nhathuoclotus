@@ -204,6 +204,18 @@ class ProductController extends AppBaseController
             $commonController = new DashboardController();
             $commonController->siteMap(true);
 
+            try {
+             Redis::del(Redis::keys('ntlt_mobile_home'));
+            } catch (\Throwable $th) {
+                // do nothing
+            }
+
+            try {
+                 Redis::del(Redis::keys('ntlt_desktop_home'));
+            } catch (\Throwable $th) {
+                // do nothing
+            }
+
             Flash::success('News saved successfully.');
             return redirect(route('admin.product.index'));
         } catch (\Throwable $e) {
@@ -406,8 +418,21 @@ class ProductController extends AppBaseController
         } catch (\Throwable $th) {
             // do nothing
         }
+        
         try {
             Redis::del(Redis::keys($cachedKeyDesktop));
+        } catch (\Throwable $th) {
+            // do nothing
+        }
+
+        try {
+             Redis::del(Redis::keys('ntlt_mobile_home'));
+        } catch (\Throwable $th) {
+            // do nothing
+        }
+
+        try {
+             Redis::del(Redis::keys('ntlt_desktop_home'));
         } catch (\Throwable $th) {
             // do nothing
         }

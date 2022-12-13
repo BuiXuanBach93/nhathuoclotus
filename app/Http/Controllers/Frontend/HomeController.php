@@ -63,13 +63,24 @@ class HomeController extends Controller
         $featuredHomeProducts = $this->productModel->getFeaturedHome();
         $ignoreProductIDs = [];
         $isMobile = isMobile();
+
+        if ($isMobile) {
+            $cachedKey = "ntlt_mobile_home";
+        } else {
+            $cachedKey = "ntlt_desktop_home";
+        }
+        $dataCached = Redis::get($cachedKey);
+        if($dataCached) {
+            return $dataCached;
+        }
+
         foreach ($featuredHomeProducts as $featuredHomeProduct) {
             $ignoreProductIDs[] = $featuredHomeProduct['id'];
         }
         $newses = News::limit(4)->where('status', '=', News::STATUS_ACTIVE)
             ->orderBy('id', 'DESC')->get();
 
-        return view('frontend/home', [
+        $result = view('frontend/home', [
             'featuredHomeProducts' => $featuredHomeProducts,
             'newses'            => $newses,
             'isMobile'          => $isMobile,    
@@ -78,6 +89,9 @@ class HomeController extends Controller
             'pageKeyword'       => 'nhà thuốc, nhà thuốc GPP, thuốc, nhà thuốc việt, nhà thuốc online, nhà thuốc online uy tín',
             'pageDesc'          => 'Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu',
         ]);
+
+        Redis::set($cachedKey, $result);
+        return $result;
     }
 
 
