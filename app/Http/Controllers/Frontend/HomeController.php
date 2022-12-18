@@ -69,10 +69,10 @@ class HomeController extends Controller
         } else {
             $cachedKey = "ntlt_desktop_home";
         }
-        $dataCached = Redis::get($cachedKey);
-        if($dataCached) {
-            return $dataCached;
-        }
+        // $dataCached = Redis::get($cachedKey);
+        // if($dataCached) {
+        //     return $dataCached;
+        // }
 
         foreach ($featuredHomeProducts as $featuredHomeProduct) {
             $ignoreProductIDs[] = $featuredHomeProduct['id'];
@@ -90,7 +90,7 @@ class HomeController extends Controller
             'pageDesc'          => 'Nhà thuốc Lotus cung cấp đa dạng các sản phẩm dược phẩm, thực phẩm chức năng, trang thiết bị y tế, dược mỹ phẩm cùng nhiều sản phẩm chăm sóc sức khoẻ tốt nhất tới tời các thương hiệu dược phẩm hàng đầu',
         ]);
 
-        Redis::set($cachedKey, $result);
+        //Redis::set($cachedKey, $result);
         return $result;
     }
 
