@@ -208,17 +208,17 @@ class NewsController extends AppBaseController
             DB::commit();
             Flash::success('News saved successfully.');
 
-            try {
-             Redis::del(Redis::keys('ntlt_mobile_home'));
-            } catch (\Throwable $th) {
-                // do nothing
-            }
+            // try {
+            //  Redis::del(Redis::keys('ntlt_mobile_home'));
+            // } catch (\Throwable $th) {
+            //     // do nothing
+            // }
 
-            try {
-                 Redis::del(Redis::keys('ntlt_desktop_home'));
-            } catch (\Throwable $th) {
-                // do nothing
-            }
+            // try {
+            //      Redis::del(Redis::keys('ntlt_desktop_home'));
+            // } catch (\Throwable $th) {
+            //     // do nothing
+            // }
 
             return redirect(route('admin.news.index'));
         } catch (\Throwable $e) {
@@ -397,17 +397,17 @@ class NewsController extends AppBaseController
             // do nothing
         }
 
-        try {
-            Redis::del(Redis::keys('ntlt_mobile_home'));
-        } catch (\Throwable $th) {
-            // do nothing
-        }
+        // try {
+        //     Redis::del(Redis::keys('ntlt_mobile_home'));
+        // } catch (\Throwable $th) {
+        //     // do nothing
+        // }
 
-        try {
-             Redis::del(Redis::keys('ntlt_desktop_home'));
-        } catch (\Throwable $th) {
-            // do nothing
-        }
+        // try {
+        //      Redis::del(Redis::keys('ntlt_desktop_home'));
+        // } catch (\Throwable $th) {
+        //     // do nothing
+        // }
 
 
         Flash::success('News updated successfully.');

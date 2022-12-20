@@ -35,6 +35,12 @@ use App\Constant;
     margin-bottom: 10px;
     margin-top: 10px;
 }
+@media (max-width: 767px){
+    img {
+        max-width: 350px;
+    }
+}
+
 </style>
 
 

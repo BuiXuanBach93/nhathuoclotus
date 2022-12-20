@@ -19,7 +19,7 @@ $isMobile = isMobile();
     <link rel="icon" type="image/png" href="{{ asset('/images/favicon.png') }}"/>
     <link rel="preload" href="{{asset('/fonts/wokiee.ttf?g7nf10')}}" as="font" crossorigin=anonymous />
     <link rel="stylesheet preload" type="text/css" as="style" href="/css/{{isset($cssFile)? $cssFile : 'theme.css'}}"/>
-    <meta name="robots" content="noindex, follow">
+    <meta name="robots" content="index, follow">
     <meta property="og:url" content="{{url()->current()}}" />
     <meta property="og:title" content="<?php echo isset($pageTitle) ? $pageTitle : Constant::PAGE_TITLE?>" />
     <meta property="og:description" content="<?php echo isset($pageDesc) ? $pageDesc : Constant::PAGE_DESC?>" />
